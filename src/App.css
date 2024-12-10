@@ -11,3 +11,10 @@ h1, p {
   background-color: black;
   height: 100vh;
 }
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+}
