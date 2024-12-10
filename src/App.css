@@ -3,7 +3,11 @@
   padding: 0;
 }
 
-h1, p {
+h2 {
+margin-bottom: 10px;
+}
+
+h1, h2, p {
   color: white;
 }
 
@@ -18,3 +22,14 @@ header {
   align-items: center;
   height: 120px;
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  padding: 3%;
+}
+
+section {
+  margin: 15px 0;
+}
+
